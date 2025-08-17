@@ -1,0 +1,1 @@
+This was my first rice. It is very simple. Waybar shows the icons for items in each workspace, and the CPU and Memory reads are toggle by a simple click. It also has a slight shader applied to hovering. I used the LyraB cursors from www.opendesktop.org/p/1524406
