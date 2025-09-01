@@ -1,0 +1,15 @@
+window {
+    font-family: Cousine Nerd Font Mono, FiraCode, serif;
+    background-color: rgba(255,255,255,0.8);
+    border: 1px solid rgba(3,94,128,1)
+}
+
+#text {
+    margin: 7px;
+    left-margin: 15px
+}
+
+#entry:selected {
+    background: #035E80;
+background: linear-gradient(90deg,rgba(3, 94, 128, 1) 0%, rgba(2, 124, 168, 1) 50%, rgba(26, 150, 199, 1) 100%);
+}
