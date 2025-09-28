@@ -1,0 +1,4 @@
+allow_images=true
+mode=drun
+insensitive=true
+key_expand=Tab

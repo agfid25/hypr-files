@@ -1,0 +1,14 @@
+window {
+    font-family: BigBlueTermPlus Nerd Font Mono, serif;
+    background-color: rgba(200,200,200,0.9);
+    border: 1px solid #66ff66
+}
+
+#text {
+    margin: 7px;
+    left-margin: 15px
+}
+
+#entry:selected {
+    background: green;
+}
